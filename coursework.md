@@ -1,6 +1,8 @@
-# Reinventing Organization Presentation
+# <span style="color:black">Reinventing Organization Presentation</span>.
 
 By Tracy Le
+
+<!-- .slide: data-background="./maintheme2.jpg" -->
 
 ---
 
@@ -13,6 +15,8 @@ By Tracy Le
 1. Benefits and limitations of Teal organization
 
 1. Examples of Teal organization
+
+<!-- .slide: data-background="./maintheme7.png" -->
 
 ---
 
@@ -31,6 +35,8 @@ By Tracy Le
 - Green
 
 - Teal (Reinventing organization)
+
+<!-- .slide: data-background="./maintheme7.png" -->
 
 ---
 
@@ -60,7 +66,7 @@ By Tracy Le
 
 - Control
 
-<!-- .slide: data-background="./ambertheme.jpg" -->
+<!-- .slide: data-background="./ambertheme4.jpg" -->
 
 ---
 
@@ -74,35 +80,35 @@ By Tracy Le
 
 - Meritocracy
 
-<!-- .slide: data-background="./orangetheme.jpg" -->
+<!-- .slide: data-background="./orangetheme2.jpg" -->
 
 ---
 
-<div style="text-align: left"> e. Green  organization </div>
+<div style="text-align: left"> <span style="color:black"> e. Green  organization</span>. </div>
 
-[<img style="float: right;" src="green.png" width="400"/>](green.png)
+[<img style="float: right;" src="green.png" width="450"/>](green.png)
 
-- Empowerment
+- <span style="color:black">Empowerment</span>
 
-- Values-driven culture
+- <span style="color:black">Values-driven culture</span>
 
-- Delight customers
+- <span style="color:black">Delight customers</span>
 
-<!-- .slide: data-background="./greentheme.jpg" -->
+<!-- .slide: data-background="./greentheme3.jpg" -->
 
 ---
 
-<div style="text-align: left"> <span style="color:black">f. Teal  organization (Reinventing organization)</span>. </div>
+<div style="text-align: left"> <span style="color:white">f. Teal  organization (Reinventing organization)</span> </div>
 
 [<img style="float: right;" src="teal.png" width="400"/>](teal.png)
 
-- <span style="color:black">Self-management</span>.
+- <span style="color:white">Self-management</span>
 
-- <span style="color:black">Decentralized structure</span>.
+- <span style="color:white">Decentralized structure</span>
 
-- <span style="color:black">Wholeness</span>.
+- <span style="color:white">Wholeness</span>
 
-<!-- .slide: data-background="./tealtheme.jpg" -->
+<!-- .slide: data-background="./tealtheme3.jpg" -->
 
 ---
 
