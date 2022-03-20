@@ -6,9 +6,9 @@ By Tracy Le
 
 ## Agenda
 
-1. Overview of Reinventing organization (Teal organization)
+1. Introduction of Reinventing organization
 
-1. Structure of Teal organization
+1. Structure of Reinventing organization
 
 1. Benefits and limitations of Teal organization
 
@@ -16,21 +16,110 @@ By Tracy Le
 
 ---
 
-## 1. Overview of reinventing organization/ Introduction of Reinventing organization
+### <div style="text-align: left"> 1. Introduction of Reinventing organization </div>
 
-a. Summary of organization types
+[<img style="float: right;" src="typesoforg.png" width="250"/>](typesoforg.png)
 
-<img src="typesoforg.jpg" alt="drawing" width="200"/>
+<div style="text-align: left"> a. Types of organization </div>
 
-<img style="float: right;" src="typesoforg.jpg">
+- Red
+
+- Amber
+
+- Orange
+
+- Green
+
+- Teal (Reinventing organization)
 
 ---
+
+<div style="text-align: left"> b. Red organization </div>
+
+[<img style="float: right;" src="red.png" width="400"/>](red.png)
+
+- Power
+
+- Fear
+
+- Top-down authority
+
+- Division of labour
+
+---
+
+<div style="text-align: left"> c. Amber organization </div>
+
+[<img style="float: right;" src="amber.png" width="500"/>](amber.png)
+
+- Hierarchy
+
+- Stability
+
+- Control
+
+---
+
+<div style="text-align: left"> d. Orange  organization </div>
+
+[<img style="float: right;" src="orange.png" width="500"/>](orange.png)
+
+- Innovation
+
+- Accountability
+
+- Meritocracy
+
+---
+
+<div style="text-align: left"> e. Green  organization </div>
+
+[<img style="float: right;" src="green.png" width="400"/>](green.png)
+
+- Empowerment
+
+- Values-driven culture
+
+- Delight customers
+
+---
+
+<div style="text-align: left"> f. Teal  organization (Reinventing organization) </div>
+
+[<img style="float: right;" src="teal.png" width="400"/>](teal.png)
+
+- Self-management
+
+- Decentralized structure
+
+- Wholeness
+
+---
+
+# Draft
+
+### 1. Introduction of Reinventing organization
+
+a. Types of organizations [<img style="float: right;" src="typesoforg.png" width="250"/>](typesoforg.png)
+
+<p align="right">
+  <img 
+    width="200"
+    src="typesoforg.png"
+  >
+</p>
+
+---
+
+## <img src="red.png" width="300"> |
+
+## <img src="typesoforg.png" width="200">
 
 ![](teal.png)
 
 | Characteristics | Red | Amber | Orange | Green | Teal |
 | :-------------- | :-- | :---- | :----- | :---- | ---- |
-| abc             | abc | abc   | abc    | abc   |
+| abc             | abc | abc   | abc    | abc   |      |
 
 Picture: Red - Amber - Organge - Green
 
