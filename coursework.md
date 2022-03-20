@@ -84,9 +84,9 @@ By Tracy Le
 
 ---
 
-<div style="text-align: left"> <span style="color:black"> e. Green  organization</span>. </div>
+<div style="text-align: left"> <span style="color:black"> e. Green  organization</span> </div>
 
-[<img style="float: right;" src="green.png" width="450"/>](green.png)
+[<img style="float: left;" src="green.png" width="450"/>](green.png)
 
 - <span style="color:black">Empowerment</span>
 
@@ -100,7 +100,7 @@ By Tracy Le
 
 <div style="text-align: left"> <span style="color:white">f. Teal  organization (Reinventing organization)</span> </div>
 
-[<img style="float: right;" src="teal.png" width="400"/>](teal.png)
+[<img style="float: left;" src="teal.png" width="400"/>](teal.png)
 
 - <span style="color:white">Self-management</span>
 
@@ -109,6 +109,26 @@ By Tracy Le
 - <span style="color:white">Wholeness</span>
 
 <!-- .slide: data-background="./tealtheme3.jpg" -->
+
+---
+
+### <div style="text-align: left"> 2. Structure of Reinventing organization </div>
+
+<!-- .slide: data-background="./maintheme7.png" -->
+
+- No boss
+
+- No strategy
+
+- No 3-year plan
+
+---
+
+- Parallel teams
+
+- Web of individual contracting
+
+- Nested teams
 
 ---
 
