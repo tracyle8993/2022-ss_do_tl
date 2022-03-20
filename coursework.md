@@ -46,6 +46,8 @@ By Tracy Le
 
 - Division of labour
 
+<!-- .slide: data-background="./redtheme.jpg" -->
+
 ---
 
 <div style="text-align: left"> c. Amber organization </div>
@@ -57,6 +59,8 @@ By Tracy Le
 - Stability
 
 - Control
+
+<!-- .slide: data-background="./ambertheme.jpg" -->
 
 ---
 
@@ -70,6 +74,8 @@ By Tracy Le
 
 - Meritocracy
 
+<!-- .slide: data-background="./orangetheme.jpg" -->
+
 ---
 
 <div style="text-align: left"> e. Green  organization </div>
@@ -82,17 +88,21 @@ By Tracy Le
 
 - Delight customers
 
+<!-- .slide: data-background="./greentheme.jpg" -->
+
 ---
 
-<div style="text-align: left"> f. Teal  organization (Reinventing organization) </div>
+<div style="text-align: left"> <span style="color:black">f. Teal  organization (Reinventing organization)</span>. </div>
 
 [<img style="float: right;" src="teal.png" width="400"/>](teal.png)
 
-- Self-management
+- <span style="color:black">Self-management</span>.
 
-- Decentralized structure
+- <span style="color:black">Decentralized structure</span>.
 
-- Wholeness
+- <span style="color:black">Wholeness</span>.
+
+<!-- .slide: data-background="./tealtheme.jpg" -->
 
 ---
 
