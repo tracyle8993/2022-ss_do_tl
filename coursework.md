@@ -8,23 +8,19 @@ By Tracy Le
 
 ## Agenda
 
+1. Overview of different types of organization
+
 1. Introduction of Reinventing organization
 
 1. Structure of Reinventing organization
-
-1. Benefits and limitations of Teal organization
-
-1. Examples of Teal organization
 
 <!-- .slide: data-background="./maintheme7.png" -->
 
 ---
 
-### <div style="text-align: left"> 1. Introduction of Reinventing organization </div>
+### <div style="text-align: left"> 1. Overview of different types of organization </div>
 
 [<img style="float: right;" src="typesoforg.png" width="250"/>](typesoforg.png)
-
-<div style="text-align: left"> a. Types of organization </div>
 
 - Red
 
@@ -40,7 +36,7 @@ By Tracy Le
 
 ---
 
-<div style="text-align: left"> b. Red organization </div>
+<div style="text-align: left"> a. Red organization </div>
 
 [<img style="float: right;" src="red.png" width="400"/>](red.png)
 
@@ -56,7 +52,7 @@ By Tracy Le
 
 ---
 
-<div style="text-align: left"> c. Amber organization </div>
+<div style="text-align: left"> b. Amber organization </div>
 
 [<img style="float: right;" src="amber.png" width="500"/>](amber.png)
 
@@ -70,7 +66,7 @@ By Tracy Le
 
 ---
 
-<div style="text-align: left"> d. Orange  organization </div>
+<div style="text-align: left"> c. Orange  organization </div>
 
 [<img style="float: right;" src="orange.png" width="500"/>](orange.png)
 
@@ -84,7 +80,7 @@ By Tracy Le
 
 ---
 
-<div style="text-align: left"> <span style="color:black"> e. Green  organization</span> </div>
+<div style="text-align: left"> <span style="color:black"> d. Green  organization</span> </div>
 
 [<img style="float: left;" src="green.png" width="450"/>](green.png)
 
@@ -92,91 +88,80 @@ By Tracy Le
 
 - <span style="color:black">Values-driven culture</span>
 
-- <span style="color:black">Delight customers</span>
+- <span style="color:black">Stakeholders</span>
 
 <!-- .slide: data-background="./greentheme3.jpg" -->
 
 ---
 
-<div style="text-align: left"> <span style="color:white">f. Teal  organization (Reinventing organization)</span> </div>
+### <div style="text-align: left"> 2. Introduction of Reinventing organization </div>
 
-[<img style="float: left;" src="teal.png" width="400"/>](teal.png)
+[<img style="float: left;" src="teal2.jpg" width="400"/>](teal2.jpg)
 
 - <span style="color:white">Self-management</span>
 
-- <span style="color:white">Decentralized structure</span>
-
 - <span style="color:white">Wholeness</span>
+
+- <span style="color:white">Evolutionary purpose</span>
 
 <!-- .slide: data-background="./tealtheme3.jpg" -->
 
 ---
 
-### <div style="text-align: left"> 2. Structure of Reinventing organization </div>
+### <div style="text-align: left"> 3. Structure of Reinventing organization </div>
 
 <!-- .slide: data-background="./maintheme7.png" -->
 
+- Self-management teams
+
 - No boss
 
-- No strategy
+- No middle management
 
-- No 3-year plan
+- Few meetings
 
----
-
-- Parallel teams
-
-- Web of individual contracting
-
-- Nested teams
+<!-- .slide: data-background="./maintheme7.png" -->
 
 ---
 
-# Draft
+<div style="text-align: left"> a. Self-management teams </div>
 
-### 1. Introduction of Reinventing organization
+[<img style="float: left;" src="teal.png" width="500"/>](teal.png)
 
-a. Types of organizations [<img style="float: right;" src="typesoforg.png" width="250"/>](typesoforg.png)
-
-<p align="right">
-  <img 
-    width="200"
-    src="typesoforg.png"
-  >
-</p>
+## <!-- .slide: data-background="./maintheme7.png" -->
 
 ---
 
-## <img src="red.png" width="300"> |
+<div style="text-align: left"> b. No boss </div>
 
-## <img src="typesoforg.png" width="200">
+[<img style="float: left;" src="noboss.jpg" width="500"/>](noboss.jpg)
 
-![](teal.png)
-
-| Characteristics | Red | Amber | Orange | Green | Teal |
-| :-------------- | :-- | :---- | :----- | :---- | ---- |
-| abc             | abc | abc   | abc    | abc   |      |
-
-Picture: Red - Amber - Organge - Green
+<!-- .slide: data-background="./maintheme7.png" -->
 
 ---
 
-> _You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete._
+<div style="text-align: left"> c. No middle management </div>
 
-> _Richard Buckminster Fuller_
+![](coach.jpg)
 
----
-
-### Reinventing organization
+<!-- .slide: data-background="./maintheme7.png" -->
 
 ---
 
-## Structure of Teal organizations - How do Teal organizations work?
+<div style="text-align: left"> d.  Few meetings </div>
 
-## Limitations of Teal organizations
+![](fewmeetings.jpg)
 
-## Examples of Teal organizations
+<!-- .slide: data-background="./maintheme7.png" -->
 
-Buurtzorg
+---
 
-## References
+### <div style="text-align: left"> References </div>
+
+- Lalous, F. (2014). _Reinventing Organization. A guide to creating organizations inspired by the next stage of human consciousness._ Nelson Parker.
+
+- Lalous, F. (2016). _Reinventing Organization. An illustrated invitation to join the conversation on next-stage organizations._ Nelson Parker.
+
+<!-- .slide: data-background="./maintheme7.png" -->
+
+---
